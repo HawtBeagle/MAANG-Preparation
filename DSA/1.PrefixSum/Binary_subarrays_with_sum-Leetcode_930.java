@@ -1,4 +1,4 @@
-class Solution {
+private class Solution {
   public int numSubarraysWithSum(int[] nums, int goal) {
     HashMap<Integer, ArrayList<Integer>> map = new HashMap<>();
     map.put(0, new ArrayList<Integer>());
