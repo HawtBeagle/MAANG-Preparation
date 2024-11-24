@@ -1,6 +1,7 @@
 package com.codingshuttle.Introduction.Week1;
 
 import com.codingshuttle.Introduction.Week1.Doubts.Assertion;
+import com.codingshuttle.Introduction.Week1.Doubts.EmployeeTest;
 import com.codingshuttle.Introduction.Week1.Doubts.Singleton;
 import com.codingshuttle.Introduction.Week1.HomeWork.CakeBaker;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -25,6 +26,9 @@ public class Week1Application implements CommandLineRunner {
 
 	@Autowired
 	private CakeBaker cakeBaker;
+
+	@Autowired
+	private EmployeeTest empTest;
 
 
 	public static void main(String[] args) {
@@ -57,5 +61,10 @@ public class Week1Application implements CommandLineRunner {
 
     		System.out.println(dbService.getData());
     		System.out.println(cakeBaker.bakeCake());
+
+
+			empTest.runForClass();
+			empTest.runForRecord();
+
 	}
 }
