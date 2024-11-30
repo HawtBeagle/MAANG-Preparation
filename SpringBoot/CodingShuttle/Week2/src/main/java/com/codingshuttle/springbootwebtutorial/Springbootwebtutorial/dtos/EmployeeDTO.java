@@ -1,63 +1,33 @@
 package com.codingshuttle.springbootwebtutorial.Springbootwebtutorial.dtos;
 
+import com.codingshuttle.springbootwebtutorial.Springbootwebtutorial.annotations.EmployeeRoleValidation;
+import jakarta.validation.constraints.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
 import java.time.LocalDate;
 
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class EmployeeDTO {
+
     private Long id;
 
+    @NotBlank
     private String name;
 
+    @Email
     private String email;
 
+    @Past
     private LocalDate dateOfJoining;
 
+    @AssertTrue
     private Boolean isActive;
 
-    public EmployeeDTO(Long id, String name, String email, LocalDate dateOfJoining, Boolean isActive) {
-        this.id = id;
-        this.name = name;
-        this.email = email;
-        this.dateOfJoining = dateOfJoining;
-        this.isActive = isActive;
-    }
+    @EmployeeRoleValidation
+    private String role;
 
-    public Long getId() {
-        return id;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public String getEmail() {
-        return email;
-    }
-
-    public void setEmail(String email) {
-        this.email = email;
-    }
-
-    public LocalDate getDateOfJoining() {
-        return dateOfJoining;
-    }
-
-    public void setDateOfJoining(LocalDate dateOfJoining) {
-        this.dateOfJoining = dateOfJoining;
-    }
-
-    public Boolean getActive() {
-        return isActive;
-    }
-
-    public void setActive(Boolean active) {
-        isActive = active;
-    }
 }
