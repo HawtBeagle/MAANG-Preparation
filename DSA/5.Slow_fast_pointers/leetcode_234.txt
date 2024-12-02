@@ -16,3 +16,37 @@ class Solution {
         return ans;
     }
 }
+
+
+// Tortoise hare and reversal
+
+class Solution {
+    public boolean isPalindrome(ListNode head) {
+        //[1 -> 2 -> 2 -> 1] --> [1 -> 2 <- 2 <- 1]
+        //[1 -> 2] --> [1 <- 2]
+        //[1 -> 2 -> 3 -> 2 -> 1] --> [1 -> 2 <- 3 <- 2 <- 1]
+        ListNode slow = head, fast = head, prev = null;
+        while( fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        } 
+
+        ListNode next = null; 
+        while( slow != null ) {
+            next = slow.next;
+            slow.next = prev; 
+            prev = slow;
+            slow = next;
+        }
+        slow = head;
+        while( slow != prev ) {
+            if ( slow.val != prev.val ) return false;
+            slow = slow.next;
+            if(slow == prev) break;
+            prev = prev.next;
+        }
+        return true;
+
+    }
+}
