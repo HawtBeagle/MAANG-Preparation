@@ -1,0 +1,22 @@
+class Solution {
+    public boolean isHappy(int n) {
+        int slow = n, fast = n; 
+        while(true) {
+            slow = replaceWithSumOfSquaresOfDigits(slow);
+            fast = replaceWithSumOfSquaresOfDigits(replaceWithSumOfSquaresOfDigits(fast));
+            // since fast is moving ahead it will reach 1 first
+            if(fast == 1) return true;
+            // at any point they should meet , they will meet at 1 or otherwise diff num but for 1 we have already checked in the above condition
+            if(slow == fast) return false;
+        }        
+    }
+    private int replaceWithSumOfSquaresOfDigits(int num) {
+        int sum = 0;
+        while(num > 0) {
+            int rem = num%10;
+            sum += rem*rem;
+            num /= 10;
+        }
+        return sum;
+    }
+}
