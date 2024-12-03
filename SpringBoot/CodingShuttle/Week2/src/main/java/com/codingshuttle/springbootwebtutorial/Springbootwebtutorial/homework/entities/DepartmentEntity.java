@@ -1,10 +1,13 @@
 package com.codingshuttle.springbootwebtutorial.Springbootwebtutorial.homework.entities;
 
 import jakarta.persistence.*;
+import lombok.Data;
+
 import java.time.LocalDate;
 
 @Entity
 @Table(name = "Department")
+@Data
 public class DepartmentEntity {
 
     @Id

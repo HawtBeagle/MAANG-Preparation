@@ -2,11 +2,12 @@ package com.codingshuttle.springbootwebtutorial.Springbootwebtutorial.homework.d
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.validation.constraints.NotBlank;
-import jakarta.validation.constraints.NotEmpty;
 import jakarta.validation.constraints.NotNull;
+import lombok.Data;
 
 import java.time.LocalDate;
 
+@Data
 public class DepartmentDTO {
 
     private Long id;
