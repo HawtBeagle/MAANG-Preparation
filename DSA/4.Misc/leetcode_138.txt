@@ -1,0 +1,25 @@
+class Solution {
+    public Node copyRandomList(Node head) {
+        Node ans = new Node(-1);
+        Node dummy = ans;
+        HashMap<Node, Node> map = new HashMap<>();
+        while(head!=null) {
+            if(map.containsKey(head)) dummy.next = map.get(head);
+            else {
+                map.put(head, new Node(head.val));
+                dummy.next = map.get(head);
+            }
+            dummy = dummy.next;
+
+            if(head.random != null && map.containsKey(head.random)) dummy.random = map.get(head.random);
+            else if(head.random == null) dummy.random = null;
+            else {
+                map.put(head.random, new Node(head.random.val));
+                dummy.random = map.get(head.random);
+            }
+            head = head.next;
+        }
+        dummy.next = null;
+        return ans.next;
+    }
+}
