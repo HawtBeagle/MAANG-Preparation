@@ -1,0 +1,48 @@
+class Solution {
+    class NodesInfo {
+        ListNode newHead;
+        ListNode newTail;
+        ListNode next;
+        public NodesInfo(ListNode newHead, ListNode newTail, ListNode next) {
+            this.newHead = newHead;
+            this.newTail = newTail;
+            this.next = next;
+        }
+    }
+    public ListNode reverseKGroup(ListNode head, int k) {
+        ListNode dummy = head, lastPrev = null,temp =head;
+        int length =0;
+        // To find length
+        while(temp != null) {
+            length++;
+            temp=temp.next;
+        }
+        int pos = 1;
+        while(dummy != null){
+            //reversing k nodes
+            NodesInfo info = reverseKNodes(dummy, pos, k,length);
+            //updating the links
+            if(lastPrev == null) head = info.newHead;
+            else lastPrev.next = info.newHead;
+            if(info.newTail != null)
+            info.newTail.next = info.next;
+            lastPrev = info.newTail;
+            dummy = info.next;
+            pos+=k;
+        }
+        return head;
+    }
+    private NodesInfo reverseKNodes(ListNode curr, int pos, int k, int length) {
+        ListNode next = null, prev = null, newHead = null, newTail = curr;
+        int count = 1;
+        while(curr != null && count<=k && k<=length-pos+1) {
+            next = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = next;
+            count++;
+        }
+        if(k>length-pos+1) return new NodesInfo(curr, null, next);
+        return new NodesInfo(prev, newTail, next);
+    }
+}

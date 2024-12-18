@@ -1,0 +1,2117 @@
+{
+    "data": {
+        "products": {
+            "status": "success",
+            "page": 0,
+            "size": 10,
+            "totalCount": 36,
+            "oosCount": 9,
+            "expressCount": 27,
+            "viewType": "DEFAULT",
+            "title": "Select cut",
+            "data": [
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_faakepqiw2j",
+                            "merchandiseName": "Chicken Gizzard",
+                            "slug": "chicken-gizzard-pr_faakepqiw2j",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "300",
+                                "grossWeight": "303",
+                                "pieces": "14-16",
+                                "uom": "Weight",
+                                "serves": "2-3",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "303 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 16.0,
+                                "min": 14.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 300.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 303.0
+                                }
+                            },
+                            "basePrice": 350.0,
+                            "baseDiscount": 36.0,
+                            "discountPercentage": 36.0,
+                            "discountedPrice": 224.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/2dfd09bb-4bfd-7a06-69a6-8c012487a505/original/1716994009931.jpg",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/2dfd09bb-4bfd-7a06-69a6-8c012487a505/original/1716994009931.jpg",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/bce22ad2-fec5-af6f-1ba1-4895fee2dc0b/original/1716994035530.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/00e66aed-9daf-64fa-bfa0-845c29f40f25/original/1716994038729.jpeg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/2302e03e-899f-7104-42fd-fbf0095a8354/original/1716994042438.jpeg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Rich, savoury & full of meaty chicken flavours",
+                                "productShortname": "Chicken Gizzard"
+                            },
+                            "pricingId": "b2eb8ff1-4bff-4b81-bf09-e3e20a11b48d",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_av4kgtb3l1h",
+                            "merchandiseName": "Chicken Curry Cut - Small Pieces (Large Pack)",
+                            "slug": "chicken-curry-cut-small---value-pack-pr_av4kgtb3l1h",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "1000",
+                                "grossWeight": "1026",
+                                "pieces": "24-36",
+                                "uom": "Weight",
+                                "serves": "6",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "1026 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 36.0,
+                                "min": 24.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 1000.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 1026.0
+                                }
+                            },
+                            "basePrice": 250.0,
+                            "baseDiscount": 25.0,
+                            "discountPercentage": 25.0,
+                            "discountedPrice": 188.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/145d3e25-9567-e1a7-d7f6-acb4e55e9619/original/1716982461273.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/145d3e25-9567-e1a7-d7f6-acb4e55e9619/original/1716982461273.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/399361f8-6a3b-fc60-d9cb-c119cb2d019c/original/1716982469860.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/0cf060fe-ff61-a214-0afc-d11ad6149145/original/1716982475557.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/6ff0cb5e-b904-6039-e83a-e854a92f6aa8/original/1716982485092.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "The ideal pack for a big, delicious curry feast",
+                                "productShortname": "Chicken Curry Cut Small - Value Pack"
+                            },
+                            "pricingId": "bd3bf8fe-be87-4af8-9cd5-d8001210ddef",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_7kyknomrcdb",
+                            "merchandiseName": "Premium Chicken Tangdi Biryani Cut",
+                            "slug": "chicken-tangdi---biryani-cut-pr_7kyknomrcdb",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "550",
+                                "grossWeight": "600",
+                                "pieces": "6",
+                                "uom": "Weight",
+                                "serves": "2-3",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "600 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": null,
+                                "min": 6.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 550.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 600.0
+                                }
+                            },
+                            "basePrice": 285.0,
+                            "baseDiscount": 25.0,
+                            "discountPercentage": 25.0,
+                            "discountedPrice": 214.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/df0b32a6-6655-68c2-865f-e3537996348a/original/1716975426430.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/df0b32a6-6655-68c2-865f-e3537996348a/original/1716975426430.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/49c97553-a4de-c516-b6ec-585b18dce730/original/1716975438184.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/8e7fd317-c905-11a6-7146-a9f756b274dc/original/1716975445090.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/d13b37c1-314d-dc94-4210-80de9929285c/original/1716975452486.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Juicy, tender chicken drumsticks & whole thigh pieces",
+                                "productShortname": "Chicken Tangdi - Biryani Cut"
+                            },
+                            "pricingId": "87fb13c7-33b2-4964-add3-4128ed105dbb",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_ffojtznsds8",
+                            "merchandiseName": "Chicken reverse sync is working correct.",
+                            "slug": "chicken-boneless---cubes-pr_ffojtznsds8",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "300",
+                                "grossWeight": "300",
+                                "pieces": "3-5",
+                                "uom": "Unit",
+                                "serves": "3-5",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "300 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 5.0,
+                                "min": 3.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 300.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 300.0
+                                }
+                            },
+                            "basePrice": 285.0,
+                            "baseDiscount": 25.0,
+                            "discountPercentage": 25.0,
+                            "discountedPrice": 214.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://d187mqu8ud1kab.cloudfront.net/catalog-category/7ac1dc52-5779-4ddc-f400-4f63a07a8d78/original/1728229488647.jpg",
+                                "thumbnail": "https://d187mqu8ud1kab.cloudfront.net/catalog-category/7ac1dc52-5779-4ddc-f400-4f63a07a8d78/original/1728229488647.jpg",
+                                "images": [
+                                    "https://d187mqu8ud1kab.cloudfront.net/catalog-category/ce8fc03d-7b12-b15f-0891-037b64f9f6d7/original/1728376028636.jpg",
+                                    "https://d187mqu8ud1kab.cloudfront.net/catalog-category/88e38552-c4b2-f140-6b91-5a231df28c3a/original/1728376028642.jpg",
+                                    "https://d187mqu8ud1kab.cloudfront.net/catalog-category/829cb3a5-3231-5394-f571-b35f68e53cec/original/1728376028647.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Juicy reverse sync is working correct.",
+                                "productShortname": "Chicken Boneless - Cubes"
+                            },
+                            "pricingId": "961b7371-b32f-4e86-94a6-e0cf9bcb7418",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_59a6c5c60df4b",
+                            "merchandiseName": "Chicken Curry Cut with Skin - Small Pieces",
+                            "slug": "chicken-curry-cut-with-skin-small---12-to-14-pieces-pr_59a6c5c60df4b",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "500",
+                                "grossWeight": "526",
+                                "pieces": "12-14",
+                                "uom": "Weight",
+                                "serves": "4",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "526 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 14.0,
+                                "min": 12.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 500.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 526.0
+                                }
+                            },
+                            "basePrice": 175.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 158.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/b837226a-4ec4-6390-908b-996c5bbf5b38/original/1716981276644.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/b837226a-4ec4-6390-908b-996c5bbf5b38/original/1716981276644.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/74c1f98c-e6b7-eeae-34bc-a2e2be3c47f0/original/1716981292858.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/7bd9f248-4052-78be-7db4-924d0d14fd58/original/1716981298878.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/977a6ea0-146e-cf98-a25e-780ca37bb5f1/original/1716981303406.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "A pop of flavour with skin-on chicken cuts",
+                                "productShortname": "Chicken Curry Cut with Skin (Small - 12 to 14 Pieces)"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_2j9jxbzk1cl",
+                            "merchandiseName": "Premium Chicken Leg Curry Cut",
+                            "slug": "chicken-leg-curry-cut-large---4-pieces-pr_2j9jxbzk1cl",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "300",
+                                "grossWeight": "400",
+                                "pieces": "4-6",
+                                "uom": "Weight",
+                                "serves": "2-3",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "400 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 6.0,
+                                "min": 4.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 300.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 400.0
+                                }
+                            },
+                            "basePrice": 285.0,
+                            "baseDiscount": 19.0,
+                            "discountPercentage": 19.0,
+                            "discountedPrice": 230.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/8f0010f9-dd3f-c396-c438-f2201c7b0ac8/original/1716978387321.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/8f0010f9-dd3f-c396-c438-f2201c7b0ac8/original/1716978387321.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/3bb60b6c-f2cf-e325-38cb-1ac44b714864/original/1716978395400.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/064a995f-c1d2-4775-e219-138406aaa38e/original/1716978400153.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/c7c143bc-cb0b-1a45-4388-033e8963d271/original/1716978404374.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Juicy bone-in leg pieces for delicious Curries or Biryanis",
+                                "productShortname": "Chicken Leg Curry Cut (Large - 4 pieces)"
+                            },
+                            "pricingId": "e30fd304-4d87-4330-b4f0-31958c78ef7b",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_59a6c80d1840d",
+                            "merchandiseName": "Chicken Wings with Skin",
+                            "slug": "chicken-wings---with-skin-pr_59a6c80d1840d",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "430",
+                                "grossWeight": "430",
+                                "pieces": "6",
+                                "uom": "Weight",
+                                "serves": "3",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "430 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": null,
+                                "min": 6.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 430.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 430.0
+                                }
+                            },
+                            "basePrice": 600.0,
+                            "baseDiscount": 25.0,
+                            "discountPercentage": 25.0,
+                            "discountedPrice": 450.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/e9939b50-a35c-aeec-0f54-216b6b9d670d/original/1716974239343.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/e9939b50-a35c-aeec-0f54-216b6b9d670d/original/1716974239343.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/e2a11ae1-f6c4-ebce-23d6-82748829ffcd/original/1716974350376.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/7947200f-f284-b38d-32b4-3731712b9b0e/original/1716974356194.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/cda7d70d-a308-f62c-ddfe-f8bb567c7df8/original/1716974362925.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Cut & cleaned Chicken Wings with Skin",
+                                "productShortname": "Chicken Wings - With Skin"
+                            },
+                            "pricingId": "27c55355-284a-4131-9aa3-0fcc0f860c70",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_3nqjtznab5c",
+                            "merchandiseName": "Chicken Breast - Boneless",
+                            "slug": "chicken-breast-boneless-pr_3nqjtznab5c",
+                            "primaryTag": {
+                                "name": "NA"
+                            },
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "450",
+                                "grossWeight": "600",
+                                "pieces": "2-4",
+                                "uom": "Weight",
+                                "serves": "4",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "600 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 4.0,
+                                "min": 2.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 450.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 600.0
+                                }
+                            },
+                            "basePrice": 615.0,
+                            "baseDiscount": 9.0,
+                            "discountPercentage": 9.0,
+                            "discountedPrice": 560.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/469c9ea4-4c1a-fe2a-0f2b-7dba03860c67/original/1716980533039.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/469c9ea4-4c1a-fe2a-0f2b-7dba03860c67/original/1716980533039.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/d7f6c192-6591-4894-fa08-f4fcaaeaa8d1/original/1716980541332.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/769c76bf-3a51-b837-46ae-c11b68e1e0cf/original/1716980546829.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/5d75d097-78ec-ec38-5a11-410e16bc331b/original/1716980551182.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Enjoy tender pieces of juicy chicken breast",
+                                "productShortname": "Chicken Breast Boneless"
+                            },
+                            "pricingId": "a09b0a63-72e7-43b3-9363-018cdb44c4e3",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_fhijtgw0ctk",
+                            "merchandiseName": "Classic Chicken Soup Bones ",
+                            "slug": "chicken-soup-bones---classic-pr_fhijtgw0ctk",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "250",
+                                "grossWeight": "250",
+                                "pieces": "11-12",
+                                "uom": "Weight",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "250 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 12.0,
+                                "min": 11.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 250.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 250.0
+                                }
+                            },
+                            "basePrice": 75.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 68.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/b375e9c0-c196-3f43-f289-c6aeab6f5f9b/original/1709004209467.jpg",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/b375e9c0-c196-3f43-f289-c6aeab6f5f9b/original/1709004209467.jpg",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/12284840-bc72-b5d5-3502-c2a70deb0af6/original/1709004211209.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/e7a2a89b-d18a-5469-faef-74a6b1718a8c/original/1706685198966.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/3bc4ac5c-3cd5-37de-b036-045bb2d52d56/original/1709004213093.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/ead1f63a-b0ff-5a6f-c4ca-e7ea32cee22a/original/1706153619553.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Cleaned chicken bones for a delicious, flavourful stock",
+                                "productShortname": "Chicken Soup Bones - (Classic)"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_fmhkgtbdprx",
+                            "merchandiseName": "Chicken Breast Boneless (Large Pack)",
+                            "slug": "chicken-breast-boneless---large-pack-pr_fmhkgtbdprx",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "900",
+                                "grossWeight": "1200",
+                                "pieces": "4-6",
+                                "uom": "Weight",
+                                "serves": "6",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "1200 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 6.0,
+                                "min": 4.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 900.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 1200.0
+                                }
+                            },
+                            "basePrice": 605.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 545.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/cb796609-f225-eb22-edb9-f5fd9366e114/original/1716980799212.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/cb796609-f225-eb22-edb9-f5fd9366e114/original/1716980799212.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/438128c7-cd50-08b0-5176-8829112f6109/original/1716980808128.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/cde3c5fc-fee3-8660-636b-375ab2e18645/original/1716980812514.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/d77b1d70-83e2-5db5-0a81-d66ea032d496/original/1716980816561.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Skinless, boneless pieces of juicy chicken breasts.",
+                                "productShortname": "Chicken Breast Boneless - Large Pack"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_hn6k8alrcck",
+                            "merchandiseName": "Tender Spring Chicken Curry Cut",
+                            "slug": "tender-spring-chicken-curry-cut-pr_hn6k8alrcck",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "800",
+                                "grossWeight": "841",
+                                "pieces": "14-16",
+                                "uom": "Weight",
+                                "serves": "5-6",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "841 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 16.0,
+                                "min": 14.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 800.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 841.0
+                                }
+                            },
+                            "basePrice": 335.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 302.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/2277047e-057b-71d5-75bd-9290e6bbb1a5/original/1716965939982.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/2277047e-057b-71d5-75bd-9290e6bbb1a5/original/1716965939982.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/d6e1a0e1-fd83-3e29-8b9b-cfa1d16b69e4/original/1716966078302.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/e082d854-7045-fd74-ae62-799b4e824f0f/original/1716966082304.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/8bc68bdb-3d57-7ea6-e145-4509b50435aa/original/1716966085922.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Juicy, tender cuts from a whole spring chicken",
+                                "productShortname": "Tender Spring Chicken Curry Cut"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_8smkrx2ly4g",
+                            "merchandiseName": "Creamy Afghani Chicken (Mini)",
+                            "slug": "half---creamy-afghani-chicken-pr_8smkrx2ly4g",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "225",
+                                "grossWeight": "225",
+                                "pieces": "7-9",
+                                "uom": "Weight",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "225 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 9.0,
+                                "min": 7.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 225.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 225.0
+                                }
+                            },
+                            "basePrice": 199.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 179.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/e32f4b28-be15-d724-5922-7a56b8c2f48f/original/1702714733820.jpg",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/e32f4b28-be15-d724-5922-7a56b8c2f48f/original/1702714733820.jpg",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/62e0f488-39c8-9c37-431f-0ea1f3f1c29b/original/1702714742839.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/649a7ab4-7fda-c74c-5572-dece1b64f795/original/1702714747755.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/adee7b62-58b9-f147-9caf-69f308155bd4/original/1702714748318.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/7c7d1ed4-972b-bb22-e045-62e615a700c5/original/1702894081383.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "A comforting meaty treat for your everyday meals",
+                                "productShortname": "Half - Creamy Afghani Chicken"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_3nqjtzosblz",
+                            "merchandiseName": "Premium Chicken Thigh Boneless",
+                            "slug": "chicken-thigh-boneless-pr_3nqjtzosblz",
+                            "primaryTag": {
+                                "name": "NA"
+                            },
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "450",
+                                "grossWeight": "565",
+                                "pieces": "3-5",
+                                "uom": "Weight",
+                                "serves": "5",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "565 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 5.0,
+                                "min": 3.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 450.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 565.0
+                                }
+                            },
+                            "basePrice": 359.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 323.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/81388200-4572-512c-0588-b43ea15b1e69/original/1716974900400.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/81388200-4572-512c-0588-b43ea15b1e69/original/1716974900400.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/501f54e7-ead9-b024-7f92-b883c348f5e7/original/1716974909369.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/0f9ff001-207c-9989-7a6f-feb273dd7247/original/1716974913816.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/94e2da12-4d41-50fe-32e5-bfe066cf8230/original/1716974919223.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Meaty, tender boneless chicken thighs",
+                                "productShortname": "Chicken Thigh (Boneless)"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_ffojtsk929c",
+                            "merchandiseName": "Oriental Basil Chicken",
+                            "slug": "chicken-basil-manchurian-pr_ffojtsk929c",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "225",
+                                "grossWeight": "225",
+                                "pieces": "10-14",
+                                "uom": "Weight",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "225 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 14.0,
+                                "min": 10.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 225.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 225.0
+                                }
+                            },
+                            "basePrice": 199.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 179.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/e577998c-0047-99fe-618f-eac464f14b64/original/1694168731995.jpg",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/e577998c-0047-99fe-618f-eac464f14b64/original/1694168731995.jpg",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/f917143d-81e9-c8f5-7b1c-d24a0a716091/original/1694168741988.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/53f0be03-526b-f0e7-d916-847cd1517800/original/1694168741682.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/09701363-cd95-fe6d-8f32-93522350a7b9/original/1694168742319.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/fca59112-3b7f-6be6-5294-19da51c26b06/original/1694168790080.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Boneless cubes of chicken in a manchurian marinade.",
+                                "productShortname": "Oriental Basil Chicken"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_avakgtb7ywh",
+                            "merchandiseName": "Chicken Curry Cut - Large Pieces (Large Pack)",
+                            "slug": "chicken-curry-cut-large---large-pack-pr_avakgtb7ywh",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "1000",
+                                "grossWeight": "1026",
+                                "pieces": "14-22",
+                                "uom": "Weight",
+                                "serves": "6",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "1026 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 22.0,
+                                "min": 14.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 1000.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 1026.0
+                                }
+                            },
+                            "basePrice": 369.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 332.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/3475a799-9d51-41c3-dd9c-efb9f811700c/original/1716984273022.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/3475a799-9d51-41c3-dd9c-efb9f811700c/original/1716984273022.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/0599bad3-2da6-10a0-7795-ed0238667d40/original/1716984286408.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/1ea4785f-15b7-a4bd-4946-0dbe41855b97/original/1716984290221.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/2281d833-dd61-7488-d884-405a2c918d0c/original/1716984294690.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Large bone-in & boneless pieces for a delicious curry",
+                                "productShortname": "Chicken Curry Cut Large - Large Pack"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_ejejbf09h51",
+                            "merchandiseName": "Chicken Lollipop - Pack of 10",
+                            "slug": "chicken-lollipop---10-pieces-pr_ejejbf09h51",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "10",
+                                "grossWeight": "10",
+                                "pieces": "10",
+                                "uom": "Pieces",
+                                "serves": "2",
+                                "unit": "pieces",
+                                "displayWeight": {
+                                    "value": "10 pieces"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": null,
+                                "min": 10.0
+                            },
+                            "netWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 10.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 10.0
+                                }
+                            },
+                            "basePrice": 185.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 167.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/0d24bf20-1b9c-e77e-7bf9-eff1052f1205/original/1716976800300.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/0d24bf20-1b9c-e77e-7bf9-eff1052f1205/original/1716976800300.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/e6667c0b-9c08-db4d-d983-0d163aad4d80/original/1716976813189.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/5d755b24-2296-01c7-9f3e-18a2b46d430f/original/1716976819687.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/f08eced7-7c71-02ef-defe-ff9d41bd26a1/original/1716976823945.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "10 pieces of meaty chicken lollipops",
+                                "productShortname": "Chicken Lollipop - 10 Pieces"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_fhijtzoq66l",
+                            "merchandiseName": "Chicken Mince (Keema)",
+                            "slug": "chicken-mince-keema-pr_fhijtzoq66l",
+                            "primaryTag": {
+                                "name": "NA"
+                            },
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "450",
+                                "grossWeight": "565",
+                                "pieces": "",
+                                "uom": "Weight",
+                                "serves": "4",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "565 g"
+                                }
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 450.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 565.0
+                                }
+                            },
+                            "basePrice": 75000.0,
+                            "baseDiscount": 25.0,
+                            "discountPercentage": 25.0,
+                            "discountedPrice": 56250.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/5d13ab9c-10b1-d606-e125-a6d487786bd1/original/1716976590734.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/5d13ab9c-10b1-d606-e125-a6d487786bd1/original/1716976590734.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/429b8bfa-9a0d-0c15-8078-c4b0cf242fef/original/1716976598917.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/21d7856f-1350-e63a-1ef4-1814db437c54/original/1716976605581.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/738a0f1c-1f4e-0bdd-2875-0f9b21571ebe/original/1716976608919.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "For mouth-watering meatballs, keema & more",
+                                "productShortname": "Chicken Mince/ Keema"
+                            },
+                            "pricingId": "e22b1d01-dd37-4968-a6b9-5a34a8dbcb88",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_57ac8c42ee432",
+                            "merchandiseName": "Country Chicken / Nattu Koli Curry Cut",
+                            "slug": "country-chicken---curry-cut-pr_57ac8c42ee432",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "550",
+                                "grossWeight": "575",
+                                "pieces": "13-17",
+                                "uom": "Weight",
+                                "serves": "4",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "575 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 17.0,
+                                "min": 13.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 550.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 575.0
+                                }
+                            },
+                            "basePrice": 399.0,
+                            "baseDiscount": 10.0,
+                            "discountPercentage": 10.0,
+                            "discountedPrice": 359.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/d85625e7-9630-15a4-8863-a92233a856d8/original/1716973357124.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/d85625e7-9630-15a4-8863-a92233a856d8/original/1716973357124.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/19e3e170-1cb8-4195-33a2-f686b927f048/original/1716973374313.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/1f32119e-9351-1fb6-3ee0-f4a00239f5f6/original/1716973379068.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/58a82ff8-2f1a-fb34-cb32-fa0acfca3442/original/1716973383928.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "The start of a flavourful, meaty curry",
+                                "productShortname": "Country Chicken - Curry Cut"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_57234c427648b",
+                            "merchandiseName": "Chicken Curry Cut - Large Pieces",
+                            "slug": "chicken-curry-cut-large---8-to-10-pieces-pr_57234c427648b",
+                            "primaryTag": {
+                                "name": "NA"
+                            },
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "500",
+                                "grossWeight": "526",
+                                "pieces": "7-11",
+                                "uom": "Weight",
+                                "serves": "4",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "526 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 11.0,
+                                "min": 7.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 500.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 526.0
+                                }
+                            },
+                            "basePrice": 195.0,
+                            "baseDiscount": 5.58,
+                            "discountPercentage": 6.0,
+                            "discountedPrice": 184.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/e5081d0b-8cc2-16f6-fb11-45c92d6810bd/original/1716983949511.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/e5081d0b-8cc2-16f6-fb11-45c92d6810bd/original/1716983949511.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/7cb94552-ac3c-2689-d701-e918012036b2/original/1716983957848.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/0b6068a0-b4df-3720-ec19-ef17087f7c61/original/1716983962607.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/6c4c9a37-8e96-0b72-ddc4-5239e20ffa3a/original/1716983966901.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Large bone-in & boneless pieces for a delicious curry",
+                                "productShortname": "Chicken Curry Cut Large Pieces"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_mm1et0i2t",
+                            "merchandiseName": "(RS)Dummy-test",
+                            "slug": "dummy-test-pr_mm1et0i2t",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "500",
+                                "grossWeight": "550",
+                                "pieces": "",
+                                "uom": "Weight",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "550 g"
+                                }
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 500.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 550.0
+                                }
+                            },
+                            "basePrice": 550.0,
+                            "baseDiscount": 5.0,
+                            "discountPercentage": 5.0,
+                            "discountedPrice": 523.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": false,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "<p>Testing Dummy variant<br></p>",
+                                "productShortname": "(FS)Dummy-Test"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_12gl5b1q8yz",
+                            "merchandiseName": "Chicken Tikka (Mini)",
+                            "slug": "chicken-tikka-mini-boneless-pr_12gl5b1q8yz",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "225",
+                                "grossWeight": "225",
+                                "pieces": "8-10",
+                                "uom": "Weight",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "225 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 10.0,
+                                "min": 8.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 225.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 225.0
+                                }
+                            },
+                            "basePrice": 400.0,
+                            "baseDiscount": 0.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 400.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/d0d3bf55-e80a-f287-5cc8-e8d7ea3dd5b1/original/1705656454673.jpg",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/d0d3bf55-e80a-f287-5cc8-e8d7ea3dd5b1/original/1705656454673.jpg",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/a4ebcde7-444a-2979-53bc-bf20e650c3fd/original/1705656684415.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/21f873c9-cbf1-3e9a-f222-98fb6c5cff17/original/1705656694169.jpg",
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/76d71e46-81fd-cf70-cd00-529682d1fdb5/original/cooking_instruction-marinates_(6).jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/5013723e-ecff-1ccd-2c6d-0b665b91a155/original/1705656988113.png"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Tangy, meaty & smoky, give your dinner a spicy twist",
+                                "productShortname": "Chicken Tikka (Mini) - Boneless"
+                            },
+                            "pricingId": "b2c1cb0c-11ad-405b-9f8d-ede79c869c2d",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_m95jo0adj74",
+                            "merchandiseName": "Creamy AfghaniReverse213432",
+                            "slug": "afghani-chicken-p-pr_m95jo0adj74",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "300",
+                                "grossWeight": "300",
+                                "pieces": "3-5",
+                                "uom": "Unit",
+                                "serves": "4",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "300 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 5.0,
+                                "min": 3.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 300.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 300.0
+                                }
+                            },
+                            "basePrice": 39.0,
+                            "baseDiscount": 0.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 39.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": false,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://d187mqu8ud1kab.cloudfront.net/catalog-category/ac05aca0-3c62-1255-5f7e-b2232a8df9ec/original/1728459124344.jpg",
+                                "thumbnail": "https://d187mqu8ud1kab.cloudfront.net/catalog-category/ac05aca0-3c62-1255-5f7e-b2232a8df9ec/original/1728459124344.jpg",
+                                "images": [
+                                    "https://d187mqu8ud1kab.cloudfront.net/catalog-category/4f2fff5e-609e-ee1a-9039-fc6053766e00/original/1728459148445.jpg",
+                                    "https://d187mqu8ud1kab.cloudfront.net/catalog-category/b0af8766-7223-70b2-c916-a48e06bfbafc/original/1728459148451.jpg",
+                                    "https://d187mqu8ud1kab.cloudfront.net/catalog-category/a962fd7c-6365-fae0-9d55-2b58468f68ed/original/1728459148457.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Rich, creamy mouthfeel with a pop Reverse sync is happening2312423",
+                                "productShortname": "Afghani Chicken (P)"
+                            },
+                            "pricePerGrossKg": 335.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_4lal483r2ks",
+                            "merchandiseName": "Chicken Drumstick - Pack Of 6",
+                            "slug": "chicken-drumstick---pack-of-6-pr_4lal483r2ks",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "6",
+                                "grossWeight": "6",
+                                "pieces": "6",
+                                "uom": "Pieces",
+                                "serves": "2-3",
+                                "unit": "pieces",
+                                "displayWeight": {
+                                    "value": "6 pieces"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": null,
+                                "min": 6.0
+                            },
+                            "netWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 6.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 6.0
+                                }
+                            },
+                            "basePrice": 319.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 319.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/5f9b176a-ea78-aab3-26b9-de69235c52f0/original/1716979586900.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/5f9b176a-ea78-aab3-26b9-de69235c52f0/original/1716979586900.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/17a10f2d-686e-1d51-5ab4-ff62e3a51ca5/original/1716979602116.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/99300ff6-09ac-f9a3-1d30-061b639968aa/original/1716979606758.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/55967e99-b074-e056-7d97-bd5fb0e78de1/original/1716979610899.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Juicy bone-in chicken drumsticks, cut from the leg",
+                                "productShortname": "Chicken Drumstick - Pack Of 6"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_3zxlai240t2",
+                            "merchandiseName": "Chicken Leg With Thigh - Pack of 3",
+                            "slug": "chicken-leg-with-thigh-pack-of-pr_3zxlai240t2",
+                            "primaryTag": {
+                                "name": "New Price"
+                            },
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "3",
+                                "grossWeight": "3",
+                                "pieces": "3",
+                                "uom": "Pieces",
+                                "serves": "2-3",
+                                "unit": "pieces",
+                                "displayWeight": {
+                                    "value": "3 pieces"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": null,
+                                "min": 3.0
+                            },
+                            "netWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 3.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 3.0
+                                }
+                            },
+                            "basePrice": 289.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 289.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/7fd6c72f-7342-89d6-a880-0069e0b5b024/original/1716977103040.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/7fd6c72f-7342-89d6-a880-0069e0b5b024/original/1716977103040.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/a0cd52f4-673b-3cd0-db39-3025558eeb87/original/1716977113406.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/f26f8d3f-67fd-25bd-c4c9-2146a460e344/original/1716977117887.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/3f918d47-4bf9-84ec-3658-e4e61d964d41/original/1716977121795.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Juicy bone-in leg pieces for delicious Curries or Biryanis",
+                                "productShortname": "Chicken Leg With Thigh - Pack of 3"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_8yyllnac44v",
+                            "merchandiseName": "Classic Chicken Biryani Cut",
+                            "slug": "classic-chicken-biryani-cut-pr_8yyllnac44v",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "5",
+                                "grossWeight": "5",
+                                "pieces": "5",
+                                "uom": "Pieces",
+                                "serves": "2-3",
+                                "unit": "pieces",
+                                "displayWeight": {
+                                    "value": "5 pieces"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": null,
+                                "min": 5.0
+                            },
+                            "netWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 5.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 5.0
+                                }
+                            },
+                            "basePrice": 209.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 209.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/a96ab6aa-d804-e300-f0b0-3ee75222ccce/original/1716973998299.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/a96ab6aa-d804-e300-f0b0-3ee75222ccce/original/1716973998299.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/b68b3c1c-fcee-15e3-ccc9-cdfee5f171fe/original/1716974024679.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/eb834895-8e23-4e17-0614-fb7ff29901ec/original/1716974029031.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/75d5fa50-5b5f-301a-35b8-ad3b023359a0/original/1716974032875.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "5 juicy pieces for delicious biryanis",
+                                "productShortname": "Classic Chicken Biryani Cut"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_fsglbgf2hjy",
+                            "merchandiseName": "Chicken Drumsticks - Pack of 2 (Mini Pack)",
+                            "slug": "chicken-drumsticks-pack-of-2-m-pr_fsglbgf2hjy",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "2",
+                                "grossWeight": "2",
+                                "pieces": "2",
+                                "uom": "Pieces",
+                                "serves": "1-2",
+                                "unit": "pieces",
+                                "displayWeight": {
+                                    "value": "2 pieces"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": null,
+                                "min": 2.0
+                            },
+                            "netWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 2.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "pieces",
+                                "value": {
+                                    "max": null,
+                                    "min": 2.0
+                                }
+                            },
+                            "basePrice": 285.0,
+                            "baseDiscount": 25.0,
+                            "discountPercentage": 25.0,
+                            "discountedPrice": 214.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/24bfdd2d-8704-59b8-9391-76487a693739/original/1716979317432.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/24bfdd2d-8704-59b8-9391-76487a693739/original/1716979317432.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/f30f8735-63c9-e27f-2fc3-ea3c381e51e1/original/1716979330227.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/32459280-12fa-cee3-89eb-1b20d86782ea/original/1716979335351.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/e67abb3f-d695-7f00-3c4a-ccae60c54d19/original/1716979339709.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Juicy bone-in chicken drumsticks, cut from the leg",
+                                "productShortname": "Chicken Drumsticks - Pack of 2 (Mini Pack)"
+                            },
+                            "pricingId": "80997fa7-64f4-4c04-bb63-8e037cd89332",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_eq3lbgf566f",
+                            "merchandiseName": "Chicken Mince/Keema - 250 gms (Mini Pack)",
+                            "slug": "chicken-keema-250-gms-mini-pac-pr_eq3lbgf566f",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "250",
+                                "grossWeight": "400",
+                                "pieces": "",
+                                "uom": "Weight",
+                                "serves": "2-3",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "400 g"
+                                }
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 250.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 400.0
+                                }
+                            },
+                            "basePrice": 189.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 189.0,
+                            "nextAvailableBy": "Today 1PM - 3PM",
+                            "hasAddOns": true,
+                            "deliveryType": "TODAY_SCHEDULED",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/bfe993ce-eeb6-0ebe-4864-477adf7a5659/original/1716978904335.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/bfe993ce-eeb6-0ebe-4864-477adf7a5659/original/1716978904335.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/08c19c9e-011b-7293-c1ec-ff8ffd54e8cd/original/1716978913661.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/8af2be3c-4bef-1821-9548-fa16edca2ba5/original/1716978917782.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/be243101-21c5-9aad-18a7-2024c2cfe791/original/1716978922174.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Tender, perfectly ground meat from our Nakhrebaa team!",
+                                "productShortname": "Chicken Keema - 250 gms (Mini Pack)"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_5785b9065d7e1",
+                            "merchandiseName": "Reverse Sync ",
+                            "slug": "chicken-curry-cut-small---13-to-16-pieces-pr_5785b9065d7e1",
+                            "primaryTag": {
+                                "name": "Bestseller"
+                            },
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "500",
+                                "grossWeight": "500",
+                                "pieces": "5-10",
+                                "uom": "Weight",
+                                "serves": "3-5",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "500 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 10.0,
+                                "min": 5.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 500.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 500.0
+                                }
+                            },
+                            "basePrice": 150.0,
+                            "baseDiscount": 35.0,
+                            "discountPercentage": 35.0,
+                            "discountedPrice": 98.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": true,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/911b5f6f-183f-57ad-a490-09e54e0a632b/original/1716979980129.png",
+                                "images": []
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Testing reverse sync",
+                                "productShortname": "Chicken Curry Cut Small Pieces"
+                            },
+                            "pricingId": "bba92ab7-2f31-4bad-a36f-dc50e46a6561",
+                            "animalSize": "Small",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_fhijtqu0u5q",
+                            "merchandiseName": "Chicken Boneless - Mini Bites",
+                            "slug": "chicken-mini-bites---boneless-pr_fhijtqu0u5q",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "250",
+                                "grossWeight": "350",
+                                "pieces": "20-25",
+                                "uom": "Weight",
+                                "serves": "4",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "350 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 25.0,
+                                "min": 20.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 250.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 350.0
+                                }
+                            },
+                            "basePrice": 150.0,
+                            "baseDiscount": 25.0,
+                            "discountPercentage": 25.0,
+                            "discountedPrice": 113.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": true,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/b1b27aed-5dd7-b09b-f2da-63e64aafb003/original/1716976077502.png",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/b1b27aed-5dd7-b09b-f2da-63e64aafb003/original/1716976077502.png",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/1dc1d00f-3b64-de1e-91ee-2a80651d0a17/original/1716976087923.png",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/3ba3a640-a453-1546-577e-ecb4e252eca0/original/1716976092310.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/bd93082d-a2c4-2618-1fd4-73c690435316/original/1716976097071.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Juicy, tender goodness of Chicken in a mouthful",
+                                "productShortname": "Chicken Mini Bites - Boneless"
+                            },
+                            "pricingId": "0ae8e922-2e3f-46dc-b2b2-5dcb99749236",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_fagkepqge4h",
+                            "merchandiseName": "Chicken Liver",
+                            "slug": "chicken-liver-pr_fagkepqge4h",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "350",
+                                "grossWeight": "354",
+                                "pieces": "7-9",
+                                "uom": "Weight",
+                                "serves": "2-3",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "354 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": 9.0,
+                                "min": 7.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 350.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 354.0
+                                }
+                            },
+                            "basePrice": 400.0,
+                            "baseDiscount": 25.0,
+                            "discountPercentage": 25.0,
+                            "discountedPrice": 300.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": true,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/f4661810-07ff-85d0-18c4-3180146a9829/original/1710239870472.jpg",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/f4661810-07ff-85d0-18c4-3180146a9829/original/1710239870472.jpg",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/a93cf55e-b3c4-b6ca-23ba-0f782ec6cba2/original/1710239874728.jpg",
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/6e9a0375-3037-a545-1be5-34808bf4b69f/original/PDP_15._Chicken_Liver_Cooked.jpg",
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/71e41bef-c88a-ce88-0dc1-43cfd4f8be91/original/PDP_15._Chicken_Liver_KH_(1).jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Smooth, rich & meaty Chicken Liver",
+                                "productShortname": "Chicken Liver"
+                            },
+                            "pricingId": "57a7927a-bfb3-48cf-aa06-cb031b85a832",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_4qzl0i0tu0u",
+                            "merchandiseName": "Hariyali Murgh Tikka",
+                            "slug": "hariyali-murgh-tikka-pr_4qzl0i0tu0u",
+                            "isCombo": 0,
+                            "weightAndPieces": {
+                                "netWeight": "300",
+                                "grossWeight": "300",
+                                "pieces": "6",
+                                "uom": "Weight",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "300 g"
+                                }
+                            },
+                            "noOfPieces": {
+                                "max": null,
+                                "min": 6.0
+                            },
+                            "netWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 300.0
+                                }
+                            },
+                            "grossWeight": {
+                                "uom": "g",
+                                "value": {
+                                    "max": null,
+                                    "min": 300.0
+                                }
+                            },
+                            "basePrice": 750.0,
+                            "baseDiscount": 0.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 750.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": true,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://assets.licious.in/OMS-ProductMerchantdising/842577a4-8fb1-0c1c-265c-14bc8e5b7d61/original/1705410949079.jpg",
+                                "thumbnail": "https://assets.licious.in/OMS-ProductMerchantdising/842577a4-8fb1-0c1c-265c-14bc8e5b7d61/original/1705410949079.jpg",
+                                "images": [
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/17e4d273-4f64-3d20-435b-bfac4f3a0433/original/1705410946950.jpg",
+                                    "https://assets.licious.in/OMS-ProductMerchantdising/af5dab4c-1536-911c-f483-97cac3d23fdc/original/1705410950776.jpg",
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b0b5a920-51a7-531f-2317-965c5772d8e4/original/cooking_instruction-marinates_(16).jpg",
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/fbfe6f80-fb15-2e6c-ff2f-1831ae911d94/original/Hariyali-Murgh-Tikka-NL_(1).jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Herby and juicy tikka that goes well with Indian breads",
+                                "productShortname": "Hariyali Murgh Tikka"
+                            },
+                            "pricingId": "23d2f2df-22c4-4b6e-90f9-9db7f38456ad",
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_d9plc04mk2n",
+                            "merchandiseName": "Chicken Curry Delight",
+                            "slug": "chicken-curry-delight-updated-pr_d9plc04mk2n",
+                            "isCombo": 1,
+                            "weightAndPieces": {
+                                "netWeight": "502",
+                                "grossWeight": "14-17",
+                                "uom": "Kg",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "14-17",
+                                    "text": "g"
+                                }
+                            },
+                            "basePrice": 314.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 314.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": false,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0ed4fa7c-3ce9-a29b-92a2-cc35a66e7555/original/PDP_73_Chicken_Curry_Delight.jpg",
+                                "images": [
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/55fa8ca3-0e4e-90aa-f0fa-c02e84332ef5/original/PDP_73_Chicken_Curry_Delight.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Chicken Curry Cut (Small) + 2 Drumsticks"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_d9plc0ej4al",
+                            "merchandiseName": "Chicken Curry Cut (Small - 13 to 16 Pieces) + Chicken Liver",
+                            "slug": "chicken-curry-cut-small-13-to-pr_d9plc0ej4al",
+                            "isCombo": 1,
+                            "weightAndPieces": {
+                                "netWeight": "850",
+                                "grossWeight": "880",
+                                "uom": "Kg",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "880",
+                                    "text": "g"
+                                }
+                            },
+                            "basePrice": 324.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 324.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": false,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/96b800b8-eeb3-3a7c-20f8-c9520a6c111d/original/PDP_74_Chicken_curry_cut_small_and_liver.jpg",
+                                "images": [
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/0ced1b0b-5df6-ad6a-372f-75311c8e21a3/original/PDP_74_Chicken_curry_cut_small_and_liver.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Tender, juicy, assorted chicken combo"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_mxilbpdu5yv",
+                            "merchandiseName": "Grilled Chicken Combo",
+                            "slug": "chicken-thigh-boneless-chicken-pr_mxilbpdu5yv",
+                            "isCombo": 1,
+                            "weightAndPieces": {
+                                "netWeight": "452",
+                                "grossWeight": "565",
+                                "uom": "Kg",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "565",
+                                    "text": "g"
+                                }
+                            },
+                            "basePrice": 468.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 468.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": false,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c94763a9-b33c-d2d4-40dd-87ebef6f6570/original/PDP_84_Grilled_Chicken_Combo-Chicken_Thigh_(Boneless)_+_Chicken_Drumsticks_-_Pack_of_2_(Mini_Pack).jpg",
+                                "images": [
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/01a9db3f-05b5-cf57-b5d7-f8bbc4bbea9c/original/PDP_84_Grilled_Chicken_Combo-Chicken_Thigh_(Boneless)_+_Chicken_Drumsticks_-_Pack_of_2_(Mini_Pack).jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Chicken Thigh (Boneless) + 2 Drumsticks"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_7u4lconezf7",
+                            "merchandiseName": "Chicken Tikka & Tandoori Combo",
+                            "slug": "chicken-tikka-tandoori-combo-pr_7u4lconezf7",
+                            "isCombo": 1,
+                            "weightAndPieces": {
+                                "netWeight": "453",
+                                "grossWeight": "646",
+                                "uom": "Kg",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "646",
+                                    "text": "g"
+                                }
+                            },
+                            "basePrice": 279.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 279.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": false,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/cf270243-31c8-72c8-df48-6368adbfd513/original/Chicken_Tikka_and_Tandoori_Combo.jpg",
+                                "images": [
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/b6406e15-bcf8-4602-e128-cd8bd47afa7d/original/Chicken_Tikka_and_Tandoori_Combo.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Get Chicken Leg With Thigh & Chicken Leg Boneless Cubes"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                },
+                {
+                    "type": "variant",
+                    "products": [
+                        {
+                            "variantId": "pr_mk2lbpdrnya",
+                            "merchandiseName": "Chicken Party Combo",
+                            "slug": "chicken-keema-250-gms-mini-pac-pr_mk2lbpdrnya",
+                            "isCombo": 1,
+                            "weightAndPieces": {
+                                "netWeight": "500",
+                                "grossWeight": "750",
+                                "uom": "Kg",
+                                "serves": "",
+                                "unit": "g",
+                                "displayWeight": {
+                                    "value": "750",
+                                    "text": "g"
+                                }
+                            },
+                            "basePrice": 398.0,
+                            "discountPercentage": 0.0,
+                            "discountedPrice": 398.0,
+                            "nextAvailableBy": "Out of stock",
+                            "hasAddOns": false,
+                            "deliveryType": "OOS",
+                            "media": {
+                                "prImage": "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/d06da273-9d83-5d22-f0db-afcddeeba569/original/PDP_82_Chicken_Party_Combo-Chicken_Keema_-_250_gms_(Mini_Pack)_+Chicken_Mini_Bites_-_Boneless.jpg",
+                                "images": [
+                                    "https://dao54xqhg9jfa.cloudfront.net/OMS-ProductMerchantdising/c686c4a8-7dc5-0441-1958-9abbdb3c1990/original/PDP_82_Chicken_Party_Combo-Chicken_Keema_-_250_gms_(Mini_Pack)_+Chicken_Mini_Bites_-_Boneless.jpg"
+                                ]
+                            },
+                            "productDescriptors": {
+                                "uspDescription": "Chicken Mince (250g) + Chicken Mini Bites"
+                            },
+                            "pricePerGrossKg": 0.0
+                        }
+                    ]
+                }
+            ]
+        },
+        "categoryBgDetails": {
+            "color": "#f5e313",
+            "image": ""
+        }
+    }
+}
